@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Medifine - Intelligent Prescription Management</title>
+   <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Header -->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="logo">Medifine</div>
+                <ul class="nav-menu">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#team">Team</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#download" class="btn-download-nav">Download the App</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+   <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="container">
+            <h1>Medifine Tracker</h1>
+            <p>Total Orders Delivered Till Today</p>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <h2>About Medifine</h2>
+            <p>Your Intelligent Prescription Management System</p>
+        </div>
+    </section>
+
+    <!-- Team Section -->
+    <section id="team">
+        <div class="container">
+            <h2>Our Team</h2>
+            <p>Group G02-SE19</p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 All Rights Reserved. Designed by Group G02-SE19</p>
+        </div>
+    </footer>
+
+</body>
+</html>
