@@ -1,0 +1,16 @@
+header {
+    background: rgba(255, 255, 255, 0.35);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+}
+
+.nav-menu a {
+    padding: 6px 10px;
+    border-radius: 6px;
+    transition: 0.25s;
+}
+
+.nav-menu a:hover {
+    background: rgba(42, 125, 225, 0.15);
+    color: #2a7de1;
+}
