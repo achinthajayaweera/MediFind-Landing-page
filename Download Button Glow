@@ -1,0 +1,12 @@
+.btn-download-large {
+    background: rgba(42, 125, 225, 0.45);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.35);
+    transition: 0.25s ease;
+}
+
+.btn-download-large:hover {
+    background: rgba(42, 125, 225, 0.65);
+    transform: translateY(-3px);
+    box-shadow: 0 12px 30px rgba(42, 125, 225, 0.35);
+}
