@@ -1,0 +1,11 @@
+button,
+.btn-primary,
+.btn-download-large {
+    transition: transform 0.25s ease;
+}
+
+button:hover,
+.btn-primary:hover,
+.btn-download-large:hover {
+    transform: translateY(-4px) scale(1.02);
+}
