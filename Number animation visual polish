@@ -1,0 +1,7 @@
+.stat-number {
+    transition: color 0.3s ease;
+}
+
+.stat-number.animate {
+    color: #ffe66d;
+}
